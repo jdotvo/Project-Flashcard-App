@@ -1,0 +1,66 @@
+{
+  "decks": [
+    {
+      "name": "Testing",
+      "description": "Testing creating deck",
+      "id": 1
+    }
+  ],
+  "cards": [
+    {
+      "front": "a",
+      "back": "a",
+      "id": 1
+    },
+    {
+      "front": "aa",
+      "back": "aa",
+      "id": 2
+    },
+    {
+      "front": "aaaa",
+      "back": "aaaaaa",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "card": {
+        "front": "aaa",
+        "back": "a",
+        "deckId": 1,
+        "id": 6
+      },
+      "id": 6
+    },
+    {
+      "card": {
+        "front": "fasdfasdf",
+        "back": "asdfasdf",
+        "deckId": 1,
+        "id": 7
+      },
+      "id": 7
+    },
+    {
+      "card": {
+        "front": "fff",
+        "back": "aaa",
+        "deckId": 2,
+        "id": 8
+      },
+      "id": 8
+    },
+    {
+      "front": "23",
+      "back": "24",
+      "id": 9
+    },
+    {
+      "front": "12233",
+      "back": "111333",
+      "id": 10
+    }
+  ]
+}
